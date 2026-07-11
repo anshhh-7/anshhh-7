@@ -19,9 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anshhh-7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=anshhh-7&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+[![](https://komarev.com/ghpvc/?username=anshhh-7&icon=1&color=0)]
 
 <!--
 **anshhh-7/anshhh-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
